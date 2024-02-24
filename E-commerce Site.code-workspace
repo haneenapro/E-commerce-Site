@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../Downloads/Build-and-Deploy-Ecommerce-Website-main/img"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "E-commerce Site"
+  }
+}
